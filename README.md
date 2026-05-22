@@ -8,7 +8,7 @@
 **Step 3 in detail:**
 1. Right-click on any `.lua` file, open **Properties**;
 2. Click **Change...** in the "Opens with:" field;
-3. Select **"Choose an app on your PC" option;
+3. Select "**Choose an app on your PC**" option;
 4. Navigate to the `lua54.exe` file located in the unpacked archive and click **"Open"**;
 5. Choose the `lua54.exe` entry that has now appeared in the list of available apps, and select **"Set default"**;
 6. Save changes and run the desired script by simply clicking on it.
